@@ -54,10 +54,10 @@ On Linux:
 5- First of all, you need to clone the zbin repo. Clone the zbin repo by writing one of these commands on command line:
 
 On Windows:
->  git clone https://github.com/yourusername/glistzbin-win64.git
+>  git clone https://github.com/terzibatuhan/glistzbin-win64.git
 
 On Linux:
->  git clone https://github.com/yourusername/glistzbin-linux.git
+>  git clone https://github.com/terzibatuhan/glistzbin-linux.git
 
 
 6- Go one folder up
@@ -71,7 +71,7 @@ On Linux:
 
 7- Clone the GlistEngine repo
 
-> git clone https://github.com/yourusername/glistengine.git
+> git clone https://github.com/terzibatuhan/glistengine.git
 
 
 8- Go to myglistapps folder
@@ -85,7 +85,7 @@ On Linux:
 
 9- Clone the GlistApp repo
 
-> git clone git clone https://github.com/yourusername/glistapp.git
+> git clone git clone https://github.com/terzibatuhan/glistapp.git
 
 
 10- On file explorer, go to;
